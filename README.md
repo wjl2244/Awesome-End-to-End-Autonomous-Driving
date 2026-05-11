@@ -12,7 +12,7 @@ If you find this repository useful, please giving this list a star ⭐. Feel fre
 | --- | --- | --- | --- | --- | --- |
 | [EvaDrive](https://arxiv.org/pdf/2508.09158) | 94.9 | Arxiv | 09/08/2025 | - | EvaDrive: Evolutionary Adversarial Policy Optimization for End-to-End Autonomous Driving |
 | [TransDiffuser](https://arxiv.org/pdf/2505.09315) | 94.9 | Arxiv | 09/05/2025 | - | TransDiffuser: Diverse Trajectory Generation with Decorrelated Multi-modal Representation for End-to-end Autonomous Driving |
-| [DriveSuprim](https://arxiv.org/pdf/2506.06659) | 93.5 | Arxiv | 10/03/2025 | - | DriveSuprim: Towards Precise Trajectory Selection for End-to-End Planning |
+| [DriveSuprim](https://arxiv.org/pdf/2506.06659) | 93.5 | AAAI2026 | 10/03/2025 | ![star](https://img.shields.io/github/stars/William-Yao-2000/DriveSuprim.svg?style=social&label=Star) [Github](https://github.com/William-Yao-2000/DriveSuprim) | DriveSuprim: Towards Precise Trajectory Selection for End-to-End Planning |
 | [DrivoR](https://arxiv.org/abs/2601.05083) | 93.1 | CVPR2026 | 05/01/2026 | ![star](https://img.shields.io/github/stars/valeoai/DrivoR.svg?style=social&label=Star) [Github](https://github.com/valeoai/DrivoR) | Driving on Registers |
 | [DiffE2E](https://arxiv.org/pdf/2505.19516) | 92.7 | NeurIPS2025 | 19/05/2025 | - | DiffE2E: Rethinking End-to-End Driving with a Hybrid Action Diffusion and Supervised Policy |
 | [NaviHydra](https://arxiv.org/pdf/2512.10660) | 92.7 | Arxiv | 10/12/2025 | - | NaviHydra: Controllable Navigation-guided End-to-end Autonomous Driving with Hydra-distillation |
@@ -43,7 +43,8 @@ If you find this repository useful, please giving this list a star ⭐. Feel fre
 | [Mimir](https://arxiv.org/pdf/2512.07130) | 89.3 | RAL2025 | 07/12/2025 | - | Mimir: Hierarchical Goal-Driven Diffusion with Uncertainty Propagation for End-to-End Autonomous Driving |
 | [CdDrive](https://arxiv.org/abs/2602.03112) | 89.2 | Arxiv | 03/02/2026 | - | A Unified Candidate Set with Scene-Adaptive Refinement via Diffusion for End-to-End Autonomous Driving |
 | [DriveLaW](https://arxiv.org/abs/2512.23421) | 89.1 | Arxiv | 23/12/2025 | - | DriveLaW:Unifying Planning and Video Generation in a Latent Driving World |
-| [AutoVLA](https://arxiv.org/pdf/2506.13757) | 89.1 | Arxiv | 13/06/2025 | - | AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning |
+| [AutoVLA](https://arxiv.org/pdf/2506.13757) | 89.1 | NeurIPS2025 | 13/06/2025 | ![star](https://img.shields.io/github/stars/ucla-mobility/AutoVLA.svg?style=social&label=Star) [Github](https://github.com/ucla-mobility/AutoVLA) | AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning |
+| [MeanFuser](https://arxiv.org/pdf/2602.20060) | 89.0 | CVPR2026 | 13/06/2025 | ![star](https://img.shields.io/github/stars/wjl2244/MeanFuser.svg?style=social&label=Star) [Github](https://github.com/wjl2244/MeanFuser) | MeanFuser: Fast One-Step Multi-Modal Trajectory Generation and Adaptive Reconstruction via MeanFlow for End-to-End Autonomous Driving |
 | [MindDrive](https://arxiv.org/pdf/2512.04441) | 88.9 | Arxiv | 04/12/2025 | - | MindDrive: An All-in-One Framework Bridging World Models and Vision-Language Model for End-to-End Autonomous Driving |
 | [GMF-Drive](https://arxiv.org/pdf/2508.06113) | 88.9 | Arxiv | 06/08/2025 | - | GMF-Drive: Gated Mamba Fusion with Spatial-Aware BEV Representation for End-to-End Autonomous Driving |
 | [Map-World](https://arxiv.org/pdf/2511.20156) | 88.8 | Arxiv | 20/11/2025 | - | Map-World: Masked Action planning and Path-Integral World Model for Autonomous Driving |
