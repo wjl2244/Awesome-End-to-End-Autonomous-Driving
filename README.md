@@ -1,4 +1,4 @@
-# AD-Papers-in-NavSim-Benchmark
+# Awesome End-to-end Autonomous Driving Papers
 
 ## 📕Paper List: End-to-End Autonomous Driving on NavSim
 
