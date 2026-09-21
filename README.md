@@ -141,7 +141,7 @@ If you find this repository useful, please giving this list a star ⭐. Feel fre
 | [ReflectDrive-2](https://arxiv.org/pdf/2605.04647) | 91.0 | arXiv | 04/05/2026 | - | ReflectDrive-2: Reinforcement-Learning-Aligned Self-Editing for Discrete Diffusion Driving |
 | [Hydra-MDP++](https://arxiv.org/pdf/2503.12820v1) | 91.0 | arXiv | 12/03/2025 | - | Hydra-MDP++: Advancing End-to-End Driving via Expert-Guided Hydra-Distillation |
 | [ELF-VLA](https://arxiv.org/pdf/2603.01063) | 91.0 | arXiv | 01/03/2026 | - | Unleashing VLA Potentials in Autonomous Driving via Explicit Learning from Failures |
-| [DriveVA](https://arxiv.org/pdf/2604.03581) | 90.9 | arXiv | 03/03/2026 | - | DriveVA: Video Action Models are Zero-Shot Drivers |
+| [DriveVA](https://link.springer.com/chapter/10.1007/978-3-032-37718-0_19) | 90.9 | ECCV2026 | 05/04/2026 | [Code](https://github.com/xiaomi-mlab/DriveVA) | DriveVA: Video Action Models are Zero-Shot Drivers |
 | [LADY](https://arxiv.org/pdf/2512.15038) | 90.9 | arXiv | 15/12/2025 | - | LADY: Linear Attention for Autonomous Driving Efficiency without Transformers |
 | [DiffRefiner](https://arxiv.org/pdf/2511.17150) | 90.7 | AAAI2026 | 17/11/2025 | coming soon | DiffRefiner: Coarse to Fine Trajectory Planning via Diffusion Refinement with Semantic Interaction for End to End Autonomous Driving |
 | [FutureX](https://arxiv.org/pdf/2512.11226) | 90.6 | arXiv | 11/12/2025 | coming soon | FutureX: Enhance End-to-End Autonomous Driving via Latent Chain-of-Thought World Model |
